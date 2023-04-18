@@ -1,0 +1,3 @@
+[submodule "Tasker"]
+	path = Tasker
+	url = git@github.com:gabridc/Tasker.git
